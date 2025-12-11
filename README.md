@@ -1,0 +1,1 @@
+# django-project1-aiven-deploy-purpose
